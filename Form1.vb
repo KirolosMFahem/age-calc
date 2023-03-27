@@ -1,8 +1,9 @@
 ﻿Public Class Form1
 
     Private Sub btnCalculateAge_Click(sender As Object, e As EventArgs) Handles btnCalculateAge.Click
-        Dim birthDate As DateTime = birthDate.Value
-        Dim currentDate As DateTime = currentDate.Value
+        Dim birthDate As DateTime = birthDatePicker.Value
+        Dim currentDate As DateTime = currentDatePicker.Value
+
 
         Dim age As TimeSpan = currentDate.Subtract(birthDate)
 

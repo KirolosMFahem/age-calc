@@ -24,8 +24,8 @@ Partial Class Form1
     Private Sub InitializeComponent()
         Label1 = New Label()
         Label2 = New Label()
-        BirthDate = New DateTimePicker()
-        CurrentDate = New DateTimePicker()
+        birthDatePicker = New DateTimePicker()
+        currentDatePicker = New DateTimePicker()
         btnCalculateAge = New Button()
         SuspendLayout()
         ' 
@@ -47,19 +47,19 @@ Partial Class Form1
         Label2.Size = New Size(70, 32)
         Label2.TabIndex = 1
         Label2.Text = "PDay"' 
-        ' BirthDate
+        ' birthDatePicker
         ' 
-        BirthDate.Location = New Point(123, 56)
-        BirthDate.Name = "BirthDate"
-        BirthDate.Size = New Size(200, 23)
-        BirthDate.TabIndex = 2
+        birthDatePicker.Location = New Point(123, 56)
+        birthDatePicker.Name = "birthDatePicker"
+        birthDatePicker.Size = New Size(200, 23)
+        birthDatePicker.TabIndex = 2
         ' 
-        ' CurrentDate
+        ' currentDatePicker
         ' 
-        CurrentDate.Location = New Point(123, 124)
-        CurrentDate.Name = "CurrentDate"
-        CurrentDate.Size = New Size(200, 23)
-        CurrentDate.TabIndex = 3
+        currentDatePicker.Location = New Point(123, 124)
+        currentDatePicker.Name = "currentDatePicker"
+        currentDatePicker.Size = New Size(200, 23)
+        currentDatePicker.TabIndex = 3
         ' 
         ' btnCalculateAge
         ' 
@@ -77,8 +77,8 @@ Partial Class Form1
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(416, 450)
         Controls.Add(btnCalculateAge)
-        Controls.Add(CurrentDate)
-        Controls.Add(BirthDate)
+        Controls.Add(currentDatePicker)
+        Controls.Add(birthDatePicker)
         Controls.Add(Label2)
         Controls.Add(Label1)
         Name = "Form1"
@@ -89,7 +89,7 @@ Partial Class Form1
 
     Friend WithEvents Label1 As Label
     Friend WithEvents Label2 As Label
-    Friend WithEvents BirthDate As DateTimePicker
-    Friend WithEvents CurrentDate As DateTimePicker
+    Friend WithEvents birthDatePicker As DateTimePicker
+    Friend WithEvents currentDatePicker As DateTimePicker
     Friend WithEvents btnCalculateAge As Button
 End Class

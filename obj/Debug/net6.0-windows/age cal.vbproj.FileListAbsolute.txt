@@ -15,3 +15,20 @@ D:\source\repos\age cal\age cal\obj\Debug\net6.0-windows\refint\age cal.dll
 D:\source\repos\age cal\age cal\obj\Debug\net6.0-windows\age cal.pdb
 D:\source\repos\age cal\age cal\obj\Debug\net6.0-windows\age cal.genruntimeconfig.cache
 D:\source\repos\age cal\age cal\obj\Debug\net6.0-windows\ref\age cal.dll
+E:\Projects & SUB\age cal\age cal\bin\Debug\net6.0-windows\age cal.exe
+E:\Projects & SUB\age cal\age cal\bin\Debug\net6.0-windows\age cal.deps.json
+E:\Projects & SUB\age cal\age cal\bin\Debug\net6.0-windows\age cal.runtimeconfig.json
+E:\Projects & SUB\age cal\age cal\bin\Debug\net6.0-windows\age cal.dll
+E:\Projects & SUB\age cal\age cal\bin\Debug\net6.0-windows\age cal.pdb
+E:\Projects & SUB\age cal\age cal\obj\Debug\net6.0-windows\age cal.vbproj.AssemblyReference.cache
+E:\Projects & SUB\age cal\age cal\obj\Debug\net6.0-windows\age_cal.Form1.resources
+E:\Projects & SUB\age cal\age cal\obj\Debug\net6.0-windows\age cal.vbproj.GenerateResource.cache
+E:\Projects & SUB\age cal\age cal\obj\Debug\net6.0-windows\age cal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects & SUB\age cal\age cal\obj\Debug\net6.0-windows\age cal.AssemblyInfoInputs.cache
+E:\Projects & SUB\age cal\age cal\obj\Debug\net6.0-windows\age cal.AssemblyInfo.vb
+E:\Projects & SUB\age cal\age cal\obj\Debug\net6.0-windows\age cal.vbproj.CoreCompileInputs.cache
+E:\Projects & SUB\age cal\age cal\obj\Debug\net6.0-windows\age cal.dll
+E:\Projects & SUB\age cal\age cal\obj\Debug\net6.0-windows\refint\age cal.dll
+E:\Projects & SUB\age cal\age cal\obj\Debug\net6.0-windows\age cal.pdb
+E:\Projects & SUB\age cal\age cal\obj\Debug\net6.0-windows\age cal.genruntimeconfig.cache
+E:\Projects & SUB\age cal\age cal\obj\Debug\net6.0-windows\ref\age cal.dll

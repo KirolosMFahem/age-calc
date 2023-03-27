@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\source\\repos\\age cal\\age cal\\age cal.vbproj",
+      "projectUniqueName": "E:\\Projects & SUB\\age cal\\age cal\\age cal.vbproj",
       "projectName": "age cal",
-      "projectPath": "D:\\source\\repos\\age cal\\age cal\\age cal.vbproj",
+      "projectPath": "E:\\Projects & SUB\\age cal\\age cal\\age cal.vbproj",
       "packagesPath": "C:\\Users\\Kiroo\\.nuget\\packages\\",
-      "outputPath": "D:\\source\\repos\\age cal\\age cal\\obj\\",
+      "outputPath": "E:\\Projects & SUB\\age cal\\age cal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
